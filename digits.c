@@ -3,7 +3,7 @@
 int main(void) {
  
   // Input to be processed
-  int input;
+  int input = 0;
   printf("PLease input a 3-digit integer number: ");
   scanf("%d", &input);
   
@@ -13,7 +13,7 @@ int main(void) {
   int units    = input - ((tens * 10) + (hundreds * 100));
   
   // print result 
-  printf("\n %d\n %d\n %d\n\n", units, tens, hundreds);
+  printf("%d\n %d\n %d", units, tens, hundreds);
    
   return 0;
 }
