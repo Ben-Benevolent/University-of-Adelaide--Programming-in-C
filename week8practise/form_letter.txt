@@ -1,6 +1,0 @@
-name		age	fraction	output
-
-Ashley Story,	39	.9		Your name is Ashley Story,, you are 32 year's old, and your employment fraction is 0.900.
-John Smith	21.6	1.4		Your name is John Smith, you are 21 year's old, and your employment fraction is 0.600.
-Susan Black	33	1.1		Your name is Susan Black, you are 33 year's old, and your employment fraction is 1.100.
-

@@ -1,5 +1,0 @@
-input	output
-3	The month of this number is Mar
-13	Invalid input. Aborting program
--1	Invalid input. Aborting program
-12	The month of this number is Dec
