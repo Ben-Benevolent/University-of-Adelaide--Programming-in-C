@@ -1,4 +1,0 @@
-input		output
-45.3		45.30 degrees Celcius is 113.54 degrees Farenheit
--32		-32.00 degrees Celcius is -25.60 degrees Farenheit
-r		Input a number next time.

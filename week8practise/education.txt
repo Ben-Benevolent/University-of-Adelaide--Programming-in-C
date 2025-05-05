@@ -1,7 +1,0 @@
-input	output
-
-3	You have entered primary level education
-10	You have attained primary level education, and entered secondary level education
-20	You have attained secondary level education, and have entered tertiary level education
--1	Invalid input- aborting program
-granny	Invalid input- aborting program
