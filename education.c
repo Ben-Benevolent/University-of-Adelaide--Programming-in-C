@@ -3,7 +3,7 @@
 int main(void) {
   
   // stores user input
-  int years;
+  int years = 0;
   
   // strings to be printed according to user input
   char primary[24]   = "primary level education\0";

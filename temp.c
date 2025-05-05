@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(void) {
-  float input;
-  float output;
+  float input = 0;
+  float output = 0;
   
   printf("Please give us a temperature in Celcius: ");
   // value of variable below indicates validity of user input
@@ -16,7 +16,7 @@ int main(void) {
   
   // this sum converts Celcius to Farenheit
   output = ((input * 9) / 5) + 32;
-  printf("\n%.2f degrees Celcius is %.2f degrees Farenheit\n\n", input, output);
+  printf("\n%.0f degrees Celcius is %.0f degrees Farenheit", input, output);
   
   return 0;
 } 
